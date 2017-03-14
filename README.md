@@ -3,7 +3,7 @@ An application that help people set plan for their amazing trips to some beautif
 
 Submitted by: **Team 1**
 
-Time spent: ** 0 ** hours spent in total
+Time spent: **0** hours spent in total
 
 ## User Stories
 
