@@ -14,7 +14,7 @@ Main features:
 * [ ] search for a destination.
 * [ ] choose a trip that match your traveling date.
 * [ ] join trip.
-  Creator
+Creator
 * [ ] create trip itinerary (description, destination, start date, end date).
 
 
