@@ -9,12 +9,13 @@ Time spent: **0** hours spent in total
 
 The following **required** functionality is complete:
   
-Main features:
-	Finder
+Main features: 
+1. Finder
 * [ ] search for a destination.
 * [ ] choose a trip that match your traveling date.
 * [ ] join trip.
-Creator
+
+2. Creator
 * [ ] create trip itinerary (description, destination, start date, end date).
 
 
