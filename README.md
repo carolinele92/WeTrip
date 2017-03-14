@@ -8,23 +8,14 @@ Time spent: **0** hours spent in total
 ## User Stories
 
 The following **required** functionality is complete:
-
-Main features:
-	Finder
-	-	search for a destination
-	-	choose a trip that match your traveling date
-	-	join trip
-	-	message trip creator
-	Creator
-	-	create trip itinerary (description, destination, start date, end date)
   
 Main features:
 	Finder
-* [x] search for a destination.
-* [x] choose a trip that match your traveling date.
-* [x] join trip.
+* [ ] search for a destination.
+* [ ] choose a trip that match your traveling date.
+* [ ] join trip.
   Creator
-* [x] create trip itinerary (description, destination, start date, end date).
+* [ ] create trip itinerary (description, destination, start date, end date).
 
 
 The following **unique** features are implemented:
