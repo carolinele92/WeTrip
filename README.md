@@ -51,9 +51,6 @@ Time spent: **0** hours spent in total
 * [ ]	chat list (8A)
 
 
-The following **unique** features are implemented:
-
-.
 
 ## Video Walkthrough
 
@@ -67,7 +64,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-Copyright 2016 Echo Studio
+Copyright 2017
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
