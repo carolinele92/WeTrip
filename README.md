@@ -43,6 +43,9 @@ Time spent: **0** hours spent in total
 
 
 ## BONUS
+
+### Message (Inbox)
+
 * [ ]	message other users (7, 9 - 11)
 * [ ]	chat window, send and receive message (8)
 * [ ]	chat list (8A)
