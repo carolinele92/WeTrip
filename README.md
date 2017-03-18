@@ -7,6 +7,7 @@ Time spent: **0** hours spent in total
 
 ## User Stories
 
+*** Refer to "Wireframe overview (with numbers).png" for features'demo
 The following **required** functionality is complete:
   
 ## REQUIRED: 
