@@ -11,20 +11,20 @@ The following **required** functionality is complete:
   
 ## REQUIRED: 
 
-	### Sign up/in
+### Sign up/in
 * [ ] user can sign up with Facebook (1) 
 * [ ] else user must complete sign up page with details : name, email, password, gender, DOB, city/province, about me sections, and profile image (2) 
 * [ ] user can login with email & password or Facebook (1) 
 * [ ] user's initial info is reflected in the "about" section in their profile (9) 
 * [ ] Optional: user is asked to provide current location
 
-	### Add friend
+### Add friend
 * [ ]	user can add other users as friends (9, 10, 11) 
 * [ ]	number of friends in user's profile increases accordingly (9, 10, 11) 
 * [ ]	newly added friend is added to friend list in user's profile with details : profile image, name, city/province (11)
 * [ ]	Optional: user can view their friends' profile (11)
 
-	### Trip Finder
+### Trip Finder
 * [ ]	user can search for other users' trips with desired destination (and with specific date) (3)
 * [ ]	select destination will bring user to the list of available destinations (3)
 * [ ]	user can also search and select destination on "home page" (5)
@@ -33,7 +33,7 @@ The following **required** functionality is complete:
 * [ ]	tap on "join button" will let user join other user's trip. The numbers of people joining reflects an increase, and their profile image is added onto joiners list (7)
 * [ ]	Optional: display popular destination by counting number of trip listings in 1 destination
 
-	### Trip Creator
+### Trip Creator
 * [ ]	user can create trip general details: description, destination, start date, end date (3)
 * [ ]	tap on "add trip" will bring user to trip detail page where they continue to fill in details: title, time, description (4)
 * [ ]	the newly created trip will be added onto "Explore" view OF THE SPECIFIC DESTINATION (6)
