@@ -24,7 +24,7 @@ Time spent: **0** hours spent in total
 * [ ]	newly added friend is added to friend list in user's profile with details : profile image, name, city/province (11)
 * [ ]	Optional: user can view their friends' profile (11)
 
-### Trip Finder
+### Find Trip
 * [ ]	user can search for other users' trips with desired destination (and with specific date) (3)
 * [ ]	select destination will bring user to the list of available destinations (3)
 * [ ]	user can also search and select destination on "home page" (5)
@@ -33,7 +33,7 @@ Time spent: **0** hours spent in total
 * [ ]	tap on "join button" will let user join other user's trip. The numbers of people joining reflects an increase, and their profile image is added onto joiners list (7)
 * [ ]	Optional: display popular destination by counting number of trip listings in 1 destination
 
-### Trip Creator
+### Create Trip
 * [ ]	user can create trip general details: description, destination, start date, end date (3)
 * [ ]	tap on "add trip" will bring user to trip detail page where they continue to fill in details: title, time, description (4)
 * [ ]	the newly created trip will be added onto "Explore" view OF THE SPECIFIC DESTINATION (6)
